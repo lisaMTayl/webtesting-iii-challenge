@@ -12,6 +12,7 @@ const Display = ({ closed, locked }) => {
   );
 };
 
+
 Display.defaultProps = {
   closed: false,
   locked: false,
